@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding, science, technology and art!
 - 🌱 I’m currently learning Ansible and ServiceNow
 - 😄 Pronouns: she/her
+- 📁 Work: xAmplify (current) and Red Hat (previous)
 - ⚡ Fun fact: ...
 
 <!---
